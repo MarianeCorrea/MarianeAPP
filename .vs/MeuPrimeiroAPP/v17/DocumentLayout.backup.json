@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\mariane.correa\\source\\repos\\MeuPrimeiroAPP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{838ACFF6-F8BB-4EF0-97A4-1E42E30B2BBE}|MeuPrimeiroAPP\\MeuPrimeiroAPP.csproj|c:\\users\\mariane.correa\\source\\repos\\meuprimeiroapp\\meuprimeiroapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{838ACFF6-F8BB-4EF0-97A4-1E42E30B2BBE}|MeuPrimeiroAPP\\MeuPrimeiroAPP.csproj|solutionrelative:meuprimeiroapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{838ACFF6-F8BB-4EF0-97A4-1E42E30B2BBE}|MeuPrimeiroAPP\\MeuPrimeiroAPP.csproj|c:\\users\\mariane.correa\\source\\repos\\meuprimeiroapp\\meuprimeiroapp\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{838ACFF6-F8BB-4EF0-97A4-1E42E30B2BBE}|MeuPrimeiroAPP\\MeuPrimeiroAPP.csproj|solutionrelative:meuprimeiroapp\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{838ACFF6-F8BB-4EF0-97A4-1E42E30B2BBE}|MeuPrimeiroAPP\\MeuPrimeiroAPP.csproj|c:\\users\\mariane.correa\\source\\repos\\meuprimeiroapp\\meuprimeiroapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{838ACFF6-F8BB-4EF0-97A4-1E42E30B2BBE}|MeuPrimeiroAPP\\MeuPrimeiroAPP.csproj|solutionrelative:meuprimeiroapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{838ACFF6-F8BB-4EF0-97A4-1E42E30B2BBE}|MeuPrimeiroAPP\\MeuPrimeiroAPP.csproj|c:\\users\\mariane.correa\\source\\repos\\meuprimeiroapp\\meuprimeiroapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{838ACFF6-F8BB-4EF0-97A4-1E42E30B2BBE}|MeuPrimeiroAPP\\MeuPrimeiroAPP.csproj|solutionrelative:meuprimeiroapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{838ACFF6-F8BB-4EF0-97A4-1E42E30B2BBE}|MeuPrimeiroAPP\\MeuPrimeiroAPP.csproj|c:\\users\\mariane.correa\\source\\repos\\meuprimeiroapp\\meuprimeiroapp\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838ACFF6-F8BB-4EF0-97A4-1E42E30B2BBE}|MeuPrimeiroAPP\\MeuPrimeiroAPP.csproj|solutionrelative:meuprimeiroapp\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{838ACFF6-F8BB-4EF0-97A4-1E42E30B2BBE}|MeuPrimeiroAPP\\MeuPrimeiroAPP.csproj|c:\\users\\mariane.correa\\source\\repos\\meuprimeiroapp\\meuprimeiroapp\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +19,24 @@
       "RelativeMoniker": "D:0:0:{838ACFF6-F8BB-4EF0-97A4-1E42E30B2BBE}|MeuPrimeiroAPP\\MeuPrimeiroAPP.csproj|solutionrelative:meuprimeiroapp\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{838ACFF6-F8BB-4EF0-97A4-1E42E30B2BBE}|MeuPrimeiroAPP\\MeuPrimeiroAPP.csproj|c:\\users\\mariane.correa\\source\\repos\\meuprimeiroapp\\meuprimeiroapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{838ACFF6-F8BB-4EF0-97A4-1E42E30B2BBE}|MeuPrimeiroAPP\\MeuPrimeiroAPP.csproj|solutionrelative:meuprimeiroapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838ACFF6-F8BB-4EF0-97A4-1E42E30B2BBE}|MeuPrimeiroAPP\\MeuPrimeiroAPP.csproj|c:\\users\\mariane.correa\\source\\repos\\meuprimeiroapp\\meuprimeiroapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838ACFF6-F8BB-4EF0-97A4-1E42E30B2BBE}|MeuPrimeiroAPP\\MeuPrimeiroAPP.csproj|solutionrelative:meuprimeiroapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{838ACFF6-F8BB-4EF0-97A4-1E42E30B2BBE}|MeuPrimeiroAPP\\MeuPrimeiroAPP.csproj|c:\\users\\mariane.correa\\source\\repos\\meuprimeiroapp\\meuprimeiroapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{838ACFF6-F8BB-4EF0-97A4-1E42E30B2BBE}|MeuPrimeiroAPP\\MeuPrimeiroAPP.csproj|solutionrelative:meuprimeiroapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838ACFF6-F8BB-4EF0-97A4-1E42E30B2BBE}|MeuPrimeiroAPP\\MeuPrimeiroAPP.csproj|c:\\users\\mariane.correa\\source\\repos\\meuprimeiroapp\\meuprimeiroapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{838ACFF6-F8BB-4EF0-97A4-1E42E30B2BBE}|MeuPrimeiroAPP\\MeuPrimeiroAPP.csproj|solutionrelative:meuprimeiroapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838ACFF6-F8BB-4EF0-97A4-1E42E30B2BBE}|MeuPrimeiroAPP\\MeuPrimeiroAPP.csproj|c:\\users\\mariane.correa\\source\\repos\\meuprimeiroapp\\meuprimeiroapp\\meuprimeiroapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{838ACFF6-F8BB-4EF0-97A4-1E42E30B2BBE}|MeuPrimeiroAPP\\MeuPrimeiroAPP.csproj|solutionrelative:meuprimeiroapp\\meuprimeiroapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +46,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Page2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mariane.correa\\source\\repos\\MeuPrimeiroAPP\\MeuPrimeiroAPP\\Page2.xaml.cs",
+              "RelativeDocumentMoniker": "MeuPrimeiroAPP\\Page2.xaml.cs",
+              "ToolTip": "C:\\Users\\mariane.correa\\source\\repos\\MeuPrimeiroAPP\\MeuPrimeiroAPP\\Page2.xaml.cs",
+              "RelativeToolTip": "MeuPrimeiroAPP\\Page2.xaml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:20:19.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Page2.xaml",
+              "DocumentMoniker": "C:\\Users\\mariane.correa\\source\\repos\\MeuPrimeiroAPP\\MeuPrimeiroAPP\\Page2.xaml",
+              "RelativeDocumentMoniker": "MeuPrimeiroAPP\\Page2.xaml",
+              "ToolTip": "C:\\Users\\mariane.correa\\source\\repos\\MeuPrimeiroAPP\\MeuPrimeiroAPP\\Page2.xaml",
+              "RelativeToolTip": "MeuPrimeiroAPP\\Page2.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-14T00:00:56.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Page1.xaml.cs",
               "DocumentMoniker": "C:\\Users\\mariane.correa\\source\\repos\\MeuPrimeiroAPP\\MeuPrimeiroAPP\\Page1.xaml.cs",
               "RelativeDocumentMoniker": "MeuPrimeiroAPP\\Page1.xaml.cs",
@@ -46,25 +84,23 @@
               "RelativeToolTip": "MeuPrimeiroAPP\\Page1.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T22:42:04.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T22:42:04.16Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\mariane.correa\\source\\repos\\MeuPrimeiroAPP\\MeuPrimeiroAPP\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "MeuPrimeiroAPP\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\mariane.correa\\source\\repos\\MeuPrimeiroAPP\\MeuPrimeiroAPP\\MainPage.xaml.cs",
               "RelativeToolTip": "MeuPrimeiroAPP\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T22:05:02.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T22:05:02.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\Users\\mariane.correa\\source\\repos\\MeuPrimeiroAPP\\MeuPrimeiroAPP\\MauiProgram.cs",
               "RelativeDocumentMoniker": "MeuPrimeiroAPP\\MauiProgram.cs",
@@ -72,47 +108,55 @@
               "RelativeToolTip": "MeuPrimeiroAPP\\MauiProgram.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T21:52:31.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T21:52:31.051Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\mariane.correa\\source\\repos\\MeuPrimeiroAPP\\MeuPrimeiroAPP\\AppShell.xaml",
               "RelativeDocumentMoniker": "MeuPrimeiroAPP\\AppShell.xaml",
               "ToolTip": "C:\\Users\\mariane.correa\\source\\repos\\MeuPrimeiroAPP\\MeuPrimeiroAPP\\AppShell.xaml",
               "RelativeToolTip": "MeuPrimeiroAPP\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-07T00:03:39.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T00:03:39.305Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Page1.xaml",
-              "DocumentMoniker": "C:\\Users\\mariane.correa\\source\\repos\\MeuPrimeiroAPP\\MeuPrimeiroAPP\\Page1.xaml",
-              "RelativeDocumentMoniker": "MeuPrimeiroAPP\\Page1.xaml",
-              "ToolTip": "C:\\Users\\mariane.correa\\source\\repos\\MeuPrimeiroAPP\\MeuPrimeiroAPP\\Page1.xaml",
-              "RelativeToolTip": "MeuPrimeiroAPP\\Page1.xaml",
-              "ViewState": "AgIAABkAAAAAAAAAAAAkwDcAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-07T00:23:42.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\mariane.correa\\source\\repos\\MeuPrimeiroAPP\\MeuPrimeiroAPP\\MainPage.xaml",
               "RelativeDocumentMoniker": "MeuPrimeiroAPP\\MainPage.xaml",
               "ToolTip": "C:\\Users\\mariane.correa\\source\\repos\\MeuPrimeiroAPP\\MeuPrimeiroAPP\\MainPage.xaml",
               "RelativeToolTip": "MeuPrimeiroAPP\\MainPage.xaml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-06T23:04:14.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T23:04:14.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\Users\\mariane.correa\\source\\repos\\MeuPrimeiroAPP\\MeuPrimeiroAPP\\Page1.xaml",
+              "RelativeDocumentMoniker": "MeuPrimeiroAPP\\Page1.xaml",
+              "ToolTip": "C:\\Users\\mariane.correa\\source\\repos\\MeuPrimeiroAPP\\MeuPrimeiroAPP\\Page1.xaml",
+              "RelativeToolTip": "MeuPrimeiroAPP\\Page1.xaml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-07T00:23:42.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MeuPrimeiroAPP.csproj",
+              "DocumentMoniker": "C:\\Users\\mariane.correa\\source\\repos\\MeuPrimeiroAPP\\MeuPrimeiroAPP\\MeuPrimeiroAPP.csproj",
+              "RelativeDocumentMoniker": "MeuPrimeiroAPP\\MeuPrimeiroAPP.csproj",
+              "ToolTip": "C:\\Users\\mariane.correa\\source\\repos\\MeuPrimeiroAPP\\MeuPrimeiroAPP\\MeuPrimeiroAPP.csproj",
+              "RelativeToolTip": "MeuPrimeiroAPP\\MeuPrimeiroAPP.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-14T00:00:23.741Z"
             }
           ]
         }
